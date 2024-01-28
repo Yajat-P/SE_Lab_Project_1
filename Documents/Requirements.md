@@ -66,13 +66,6 @@ to the reviewer on their dashboard. The papers will be categorized as
 reviewed or pending and each of these categories will be organized by
 their respective authors(alphabetically sorted, i.e., papers authored by the same author will appear in the same cluster and the clusters will be sorted alphabetically).
 
-##### Edit/Delete review
-
-If a reviewer wants to edit a review, the status of the review will be
-changed from reviewed to pending and the user can either update the
-review by editing the rating/review/comments and resubmit(after which
-the status will be changed back to reviewed) or delete the review
-entirely.
 
 ##### Paper Details
 
